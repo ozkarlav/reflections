@@ -14,4 +14,5 @@ A:
 
 	Clone, You use this when you want to copy a repository from GitHub or inside your own machine or network.
 
-	Branches, A branch creates a bifurcation of an already line of commits, it allows you to work on somethisng without affecting the last commit you have made, and that's it. THanks
+	Branches, A branch creates a bifurcation of an already line of commits, it aithout affecting the last commit you have made,
+
