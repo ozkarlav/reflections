@@ -16,3 +16,7 @@ A: By adding to the stage area the file that I'm working on at that time
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: When I'm interested on doing 2 different versions of the same program, or when I want to try new things on the program but want to keep those changes for later use
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: It is easy to visualize the structure of the repository, it's commits and the different branches and the interaction among these branches, it still not very clear the way the commits work when you create new branches on the repository
