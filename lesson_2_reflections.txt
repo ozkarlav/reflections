@@ -20,3 +20,7 @@ A: When I'm interested on doing 2 different versions of the same program, or whe
 Q: How do the diagrams help you visualize the branch structure?
 
 A: It is easy to visualize the structure of the repository, it's commits and the different branches and the interaction among these branches, it still not very clear the way the commits work when you create new branches on the repository
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: it combines the progress of every commit as well as the combination of changes in the las commit we make.  It is importan to show this in the diagram as we can visualize how this changes affect the brabches themselves 
