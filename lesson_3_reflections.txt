@@ -16,3 +16,6 @@ A:
 
 	Branches, A branch creates a bifurcation of an already line of commits, it aithout affecting the last commit you have made,
 
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: The benefit is avoiding changes that I have not introduced yet
