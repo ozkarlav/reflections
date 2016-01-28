@@ -24,3 +24,8 @@ A: It is easy to visualize the structure of the repository, it's commits and the
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: it combines the progress of every commit as well as the combination of changes in the las commit we make.  It is importan to show this in the diagram as we can visualize how this changes affect the brabches themselves 
+
+Q:  What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: pros: it saves time and it helps with irrelevant desitions
+   cons: it cound create issues and the progran could not render
